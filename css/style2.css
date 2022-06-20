@@ -16,6 +16,5 @@ body {
   height: 100vh;
 
   width: 100%;
-
-  background-image: linear-gradient( to bottom right , #316879,#ced7d8,#f47a60,#7fe7dc,#ced7d8,#ced7d8);
+  background: white ;
   }
