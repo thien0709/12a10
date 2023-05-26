@@ -120,3 +120,14 @@ ul li a:hover {
   box-shadow: 0 0 5px #ffee10;
   text-shadow: 0 0 5px #ffee10;
 }
+.sub-content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sub-content p{
+  text-align: center;
+  line-height: 3rem;
+  width: 80%;
+  font-family: 'Courier New', Courier, monospace;
+}
